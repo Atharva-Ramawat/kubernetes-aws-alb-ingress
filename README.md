@@ -20,7 +20,7 @@ This project sets up a fully functioning Kubernetes Ingress integration with an 
 ## 📸 Application Preview
 Here is the deployed 2048 game running successfully on AWS EKS, accessible via the public Application Load Balancer endpoint:
 
-![2048 Game Running on AWS EKS](images/app.png)
+![2048 Game Running on AWS EKS](images/image.png)
 
 ---
 
