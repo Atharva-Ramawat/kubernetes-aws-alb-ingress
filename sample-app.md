@@ -1,6 +1,6 @@
 Sample App deployment
 
-Copy the deploy.yml to your local and save it with name deploy.yml
+
 
 apiVersion: apps/v1
 kind: Deployment
