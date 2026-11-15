@@ -15,7 +15,7 @@ This project sets up a fully functioning Kubernetes Ingress integration with an 
 * **Application:** Classic 2048 Game Workload
 * **Tooling:** `eksctl`, `kubectl`, AWS CLI, Git, Git Bash
 
----
+--
 
 ## 📸 Application Preview
 Here is the deployed 2048 game running successfully on AWS EKS, accessible via the public Application Load Balancer endpoint:
